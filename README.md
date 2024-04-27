@@ -38,4 +38,6 @@
 
   ![Snake animation](https://github.com/RafaelMessiasM/RafaelMessiasM/blob/output/github-contribution-grid-snake.svg)
 
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=RafaelMessiasM&repo=RafaelMessiasM&theme=react)](https://github.com/RafaelMessiasM/RafaelMessiasM)
+
    
